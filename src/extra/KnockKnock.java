@@ -11,7 +11,9 @@ public class KnockKnock {
 			String Pitisbeast = JOptionPane.showInputDialog("Boi");
 
 			String Boo = JOptionPane.showInputDialog("Boi if you dont");
-			if (Pitisbeast.equals("Boi who")
+			if (Pitisbeast.equals("Boi who"){
+				
+			}
 		}
 
 			
